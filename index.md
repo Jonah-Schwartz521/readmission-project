@@ -6,6 +6,13 @@ When a patient is readmitted to the hospital within 30 days of leaving, it usual
 
 **Why this interests me:** I want to work in healthcare IT and data. I interned on Medtronic's Health Data Platform team, and before that I worked as a research analyst comparing pre-surgery imaging to what surgeons actually found. Both jobs showed me how much useful information sits in healthcare data, and how hard it is to turn it into something a hospital can act on. Readmission is a real problem hospitals pay for, so I wanted to see how far a model could get with the kind of data they already collect.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.5em 0;">
+  <iframe src="https://www.youtube.com/embed/DVYQ7ZIgIz8"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 ## The Data
 
 I used the [Diabetes 130-US Hospitals dataset](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008) from the UCI Machine Learning Repository: about 101,000 hospital stays from 130 US hospitals between 1999 and 2008. Every patient has diabetes, but most were admitted for other reasons, mainly heart problems. Diabetes was the main reason for only about 8% of stays.
