@@ -29,7 +29,7 @@ That left about 70,000 unique patients.
 
 **Only 9% of patients were readmitted within 30 days.** That imbalance shapes everything: a model that always guesses "No" would be 91% accurate and completely useless.
 
-![Feature histograms](images/histograms.png)
+![Feature histograms](images/numeric_features.png)
 
 Most features look reasonable, but prior visits are almost always 0 with a long tail (one patient had 42 ER visits in a year). Those patients are real and probably high-risk, so instead of deleting them I capped extreme values at the 99th percentile.
 
