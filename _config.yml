@@ -1,0 +1,5 @@
+title: Predicting 30-Day Hospital Readmissions
+description: An applied machine learning project by Jonah Schwartz
+theme: jekyll-theme-cayman
+exclude:
+  - data
