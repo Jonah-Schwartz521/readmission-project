@@ -4,7 +4,7 @@ When a patient is readmitted to the hospital within 30 days of leaving, it usual
 
 **The question:** can patient data from a hospital stay predict who will be readmitted within 30 days?
 
-**Why this interests me:** (your own words here)
+**Why this interests me:** I want to work in healthcare IT and data. I interned on Medtronic's Health Data Platform team, and before that I worked as a research analyst comparing pre-surgery imaging to what surgeons actually found. Both jobs showed me how much useful information sits in healthcare data, and how hard it is to turn it into something a hospital can act on. Readmission is a real problem hospitals pay for, so I wanted to see how far a model could get with the kind of data they already collect.
 
 ## The Data
 
