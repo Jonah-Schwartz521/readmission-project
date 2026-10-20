@@ -1,3 +1,7 @@
+---
+title: Predicting 30-Day Hospital Readmissions
+---
+
 ## The Problem
 
 When a patient is readmitted to the hospital within 30 days of leaving, it usually means something went wrong: the treatment didn't hold, follow-up care fell through, or they went home too soon. Readmissions are costly, and Medicare penalizes hospitals with high rates. If hospitals could spot high-risk patients before discharge, they could step in with extra follow-up.
